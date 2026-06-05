@@ -1,4 +1,4 @@
-# V2X Direction Trend Prediction with PPO and Online Metaheuristic Guidance
+# V2X Trend Prediction with PPO and Online Metaheuristic Guidance
 
 Traffic direction prediction system for V2X (Vehicle-to-Everything) networks using deep reinforcement learning. The model predicts dominant traffic flow direction at road intersections, combining a PPO-trained actor-critic with online PSO/GA logit-bias optimization.
 
