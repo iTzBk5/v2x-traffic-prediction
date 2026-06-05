@@ -1,0 +1,12 @@
+{
+  "avg_speed_kmh": 3.08,
+  "avg_waiting_s": 120.16,
+  "median_waiting_s": 110.0,
+  "p95_waiting_s": 279.0,
+  "avg_halted_vehs": 188.4,
+  "avg_active_vehs": 209.6,
+  "peak_vehicles": 282,
+  "total_departed": 73,
+  "throughput": 80,
+  "total_teleported": 63
+}
